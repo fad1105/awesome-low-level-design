@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "baseFontSize": 25,
+  "theme": "system",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "snippets"
+  ],
+  "cssTheme": "Obsidianite",
+  "textFontFamily": "Rubik,JetBrains Mono"
+}

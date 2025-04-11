@@ -1,0 +1,7 @@
+{
+  "minimal-style@@tabs-style": "tabs-default",
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@checkbox-shape": "checkbox-square",
+  "minimal-style@@minimal-strike-lists": true,
+  "minimal-style@@list-spacing": 0.105
+}

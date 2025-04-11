@@ -1,0 +1,5 @@
+{
+  "defaultRefreshInterval": "60",
+  "storiesFolder": "100-archive/HackerNews",
+  "storyTemplate": "---\ndate: {{date}}\nsource: {{url}}\n\n---\n\n# {{title}}\n\n> notes from [{{title}}]({{url}})\n"
+}

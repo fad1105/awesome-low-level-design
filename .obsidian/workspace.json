@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "a55c48fdfc9765ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b481f021aa919f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5db928ae36ea25a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c2d081cfb30d70c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83b79633f8e48c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d81d68a74720e510",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a4851d98138fd496",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "obsidi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e53cf05cb18acc5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "df0563b8cbe8d2b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437.50312423706055
+  },
+  "right": {
+    "id": "5d35cb5f9fe7d82e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdfca458600f6e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46713bdd6a2364e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "07691d78fc9ec022",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20-Learning & Research/obsidian/importer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for importer"
+            }
+          },
+          {
+            "id": "06714a5c0e367b63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20-Learning & Research/obsidian/importer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from importer"
+            }
+          },
+          {
+            "id": "f787c7ed7d554fda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c19eb95f94f00013",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20-Learning & Research/obsidian/importer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of importer"
+            }
+          },
+          {
+            "id": "5f2ac3901701d4bd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "47f0e9773b47bdad",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 566.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "obsidian-kanban:Create new board": false,
+      "card-board:CardBoard": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "a5db928ae36ea25a",
+  "lastOpenFiles": [
+    "01-Dostt/4-2025.md",
+    "01-Dostt/processes/at month start.md",
+    "01-Dostt/01-backend/module/archive/payment/payment.md",
+    "01-Dostt/01-backend/module/issue/no audio and fail to fetch.md",
+    "01-Dostt/01-backend/module/archive/payment/Pasted image 20240814144144.png",
+    "01-Dostt/01-backend/module/archive/payment/payments/discuession.md",
+    "01-Dostt/01-backend/module/backlogs.md",
+    "01-Dostt/01-backend/module/archive/kyc.md",
+    "01-Dostt/01-backend/module/prompt helper/database table.md",
+    "01-Dostt/personal_kanban.md",
+    "01-Dostt/05-Product/Dostt Kanban.md",
+    "01-Dostt/01-backend/POC/video modration.md",
+    "01-Dostt/01-backend/POC/load testing.md",
+    "01-Dostt/05-Product/POC/singnzy.md",
+    "01-Dostt/01-backend/POC/customer support.md",
+    "01-Dostt/01-backend/Sprint Kanban.md",
+    "01-Dostt/question to po.md",
+    "01-Dostt/01-backend/links.md",
+    "01-Dostt/01-backend/leanings.md",
+    "01-Dostt/dump.md",
+    "01-Dostt/100-Extra/staging/staging users.md",
+    "01-Dostt/05-Product",
+    "01-Dostt/Untitled.md",
+    "01-Dostt/dostt walkthrough.md",
+    "01-Dostt/01-backend/100-archive",
+    "01-Dostt/01-backend/50-Extra",
+    "01-Dostt/01-backend",
+    "01-Dostt/01-backend/setup/vscode.md",
+    "01-Dostt/100-Extra/productivity rule/rule.md",
+    "01-Dostt/01-backend/50-Extra/docs/api.md",
+    "01-Dostt/100-Extra",
+    "10-personal/50-friends/5-star/discussion.md",
+    "10-personal/50-friends/5-star",
+    "01-Dostt/juypter/mobile_no.ipynb",
+    "01-Dostt/juypter/Untitled.ipynb",
+    "01-Dostt/juypter/feed logic/setup_experts_cache-Copy1.ipynb",
+    "01-Dostt/juypter/setup_experts_cache-Copy1.ipynb",
+    "20-Learning & Research/01-Technical/03-DSA/revise/assets/Pasted image 20250405144711.png",
+    "01-Dostt/juypter/venv/lib/python3.9/site-packages/ipywidgets/widgets/tests/data/jupyter-logo-transparent.png",
+    "01-Dostt/juypter/venv/lib/python3.9/site-packages/notebook/static/be0a084962d8066884f7.svg",
+    "01-Dostt/juypter/venv/lib/python3.9/site-packages/notebook/static/a3b9817780214caf01e8.svg",
+    "01-Dostt/juypter/venv/lib/python3.9/site-packages/notebook/static/9674eb1bd55047179038.svg",
+    "01-Dostt/juypter/venv/share/icons/hicolor/scalable/apps/notebook.svg",
+    "01-Dostt/juypter/venv/share/icons/hicolor/scalable/apps/jupyterlab.svg",
+    "01-Dostt/juypter/venv/lib/python3.9/site-packages/jupyterlab/static/be0a084962d8066884f7.svg",
+    "01-Dostt/juypter/venv/lib/python3.9/site-packages/jupyterlab/static/a3b9817780214caf01e8.svg",
+    "10-personal/06-Projects_Hobbies/self learning/Untitled.canvas",
+    "obsidian/obsidian 1/Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
